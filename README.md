@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 <h3 align="center">Aspiring Cybersecurity Expert | Data Analyst | Competitive Programmer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPatel-11&label=Profile%20Views&color=0e75b6&style=flat" alt="DevPatel-11" />
-</p>
-
 ---
 
 ## 🧐 About Me  
