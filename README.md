@@ -1,10 +1,27 @@
-## Hii, I am Dev Patel
+# Hi, I'm Dev 👋
 
-I am currently pursuing my **B.Tech Computer Science Student at MNIT Jaipur**
+I'm a Computer Science student who enjoys building full-stack applications, backend services, and AI-driven tools. I like competitive programming, working on real projects, improving my problem-solving skills, and contributing to open source.
 
-I love competitive programming and Python.
+### 🔧 Tech I Work With
+- **Languages:** Python, C++, JavaScript, SQL  
+- **Web:** Node.js, Express.js, React.js, Tailwind CSS  
+- **Databases:** MongoDB  
+- **Other:** Git, GitHub, NLP, Machine Learning
 
----
+### 🚀 Projects
+- **TrustLens** – AI-powered trust & safety platform for e-commerce  
+- **Movie Dataset EDA** – Exploratory analysis of factors affecting movie earnings  
+- **More on my GitHub...**
 
-### Contact
-📧 Email: [dev99p2004a@gmail.com](mailto:dev99p2004a@gmail.com)  
+### 🏆 Competitive Programming
+- **Codeforces:** 1557  
+- **LeetCode:** 1892  
+
+### 🌱 What I'm Doing Now
+- Learning backend/system design concepts  
+- Improving open-source contributions  
+- Building better full-stack projects  
+
+### 📫 Connect with me  
+- **LinkedIn:** https://linkedin.com/in/dev-patel-12034a2a4  
+- **GitHub:** https://github.com/DevPatel-11
