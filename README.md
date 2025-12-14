@@ -9,8 +9,8 @@ I'm a Computer Science student who enjoys building full-stack applications, back
 - **Other:** Git, GitHub, NLP, Machine Learning
 
 ### 🚀 Projects
-- **TrustLens** – AI-powered trust & safety platform for e-commerce  
-- **Movie Dataset EDA** – Exploratory analysis of factors affecting movie earnings  
+- [**Distributed Key-Value Store using Raft Consensus**](https://github.com/DevPatel-11/distributed-raft-kv-store) 
+- [**Microservices-based E-commerce System**](https://github.com/DevPatel-11/microservices-ecommerce)  
 - **More on my GitHub...**
 
 ### 🏆 Competitive Programming
