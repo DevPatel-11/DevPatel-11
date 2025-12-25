@@ -30,31 +30,8 @@ CS undergrad passionate about **backend development**, **distributed systems**, 
   
 - **Hacktoberfest 2024**
   - **4 PRs merged** across open-source repositories
-  - Fixed bugs, improved documentation, and added meaningful enhancements
-  -   - Added new features and solved critical bugs in various projects
-  - Recent contributions include: ccxt and bitcoin repositories
-
----
-
-## 📚 Tech Stack
-
-### **Languages**
-- Python, C++, JavaScript, SQL, Go
-
-### **Backend & Web**
-- Node.js, Express.js, Go (gRPC), REST APIs
-- React.js, Tailwind CSS (Frontend)
-- WebSockets, Real-time Systems
-
-### **Databases & Data**
-- MongoDB, PostgreSQL, Redis
-- Raft Consensus Protocol
-
-### **Infrastructure & Tools**
-- AWS (EC2, S3, deployment)
-- Docker, Git, GitHub CI/CD
-- NLP, Machine Learning basics
-- Distributed Systems, Microservices
+  - Added new features and solved critical bugs in various projects
+- Recent Open Source contributions include: ccxt and bitcoin repositories
 
 ---
 
@@ -96,10 +73,9 @@ CS undergrad passionate about **backend development**, **distributed systems**, 
 
 ## 🌱 What I'm Currently Working On
 
-- 📚 Deepening knowledge of backend/system design patterns
-- 🖎️ Contributing to open-source projects with quality PRs
-- 🎉 Building full-stack projects with real-world impact
-- 📍 Preparing for placements with top quant firms
+- Deepening knowledge of backend/system design patterns
+- Contributing to open-source projects with quality PRs
+- Building full-stack projects with real-world impact
 
 ---
 
@@ -118,9 +94,3 @@ CS undergrad passionate about **backend development**, **distributed systems**, 
 - **Codeforces**: [_Manuu_16](https://codeforces.com/profile/_Manuu_16)
 - **LeetCode**: [dev99p2004a](https://leetcode.com/u/dev99p2004a/)
 - **CodeChef**: [dev_1812](https://www.codechef.com/users/dev_1812)
-
----
-
-## 🎨 Fun Fact
-
-I love competitive programming because it teaches me to think like an engineer: break down complex problems, optimize for constraints, and write clean, scalable code. The same skills that help me ace contests are exactly what I use to build robust systems in production!
