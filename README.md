@@ -10,8 +10,8 @@ CS undergrad passionate about **backend development**, **distributed systems**, 
 
 ### **Competitive Programming**
 - **LeetCode**: Knight Badge - 1892 problems solved
-- **Codeforces**: Specialist - Rating 1557
-- **CodeChef**: 2-Star - Rating 1574
+- **Codeforces**: Specialist - Max Rating 1557, Current Rating 1336
+- **CodeChef**: 3-Star - Rating 1632
 - **Meta Hacker Cup 2024**: Rank **869** (Semifinals), Rank **1703** (Previous Round)
 
 ### **Hackathons & Competitions**
@@ -31,7 +31,8 @@ CS undergrad passionate about **backend development**, **distributed systems**, 
 - **Hacktoberfest 2024**
   - **4 PRs merged** across open-source repositories
   - Fixed bugs, improved documentation, and added meaningful enhancements
-  - Contributors include: ccxt, bitcoin, and other major projects
+  -   - Added new features and solved critical bugs in various projects
+  - Recent contributions include: ccxt and bitcoin repositories
 
 ---
 
